@@ -70,18 +70,14 @@ This function enables the contract owner to burn a specified amount of tokens fr
 
 ## Usage
 
-> [!IMPORTANT] > `Before running any script`, follow the .env.example requirements & fill up your wallet with some MATIC for deploying and interacting with the smart contract. When using Mumbai You can get some MATICs from the [Mumbai Faucet](https://faucet.polygon.technology)
+> [!IMPORTANT]
+> `Before running any script`, follow the .env.example requirements & fill up your wallet with some MATIC for deploying and interacting with the smart contract. When using Mumbai You can get some MATICs from the [Mumbai Faucet](https://faucet.polygon.technology)
 
 Install dependencies:
 
 ```bash
 npm install
 ```
-
-npm install
-
-> [!NOTE]
-> run the next commands for usage:
 
 Test the smart contracts:
 
