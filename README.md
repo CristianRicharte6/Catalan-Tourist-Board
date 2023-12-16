@@ -1,4 +1,4 @@
-# ACT Coin (Catalan-Tourism-Agency)
+# ACT Coin (Agencia-Catalana-Turismo)
 
 ## Motivation
 
