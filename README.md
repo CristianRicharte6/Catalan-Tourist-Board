@@ -1,12 +1,12 @@
-# RewardToken (Catalan-Tourism-Agency)
+# ACT Coin (Catalan-Tourism-Agency)
 
 ## Motivation
 
-The `RewardToken` was created to revolutionize the tourism industry by providing a seamless and efficient way to incentivize and reward participants. Through the use of blockchain technology, the `Catalan tourism agency` aims to enhance the overall experience and engagement of its users by offering innovative financial incentives.
+The `ACT Coin` was created to revolutionize the tourism industry by providing a seamless and efficient way to incentivize and reward participants. Through the use of blockchain technology, the `Catalan tourism agency` aims to enhance the overall experience and engagement of its users by offering innovative financial incentives.
 
 ## Overview
 
-The `RewardToken` smart contract is an ERC20 token designed to facilitate rewards by allowing minting and burning tokens. This contract is based on the OpenZeppelin ERC20 implementation and is augmented with ownership functionality through the Ownable contract implementation.
+The `ACT Coin` smart contract is an ERC20 token designed to facilitate rewards by allowing minting and burning tokens. This contract is based on the OpenZeppelin ERC20 implementation and is augmented with ownership functionality through the Ownable contract implementation.
 
 - Smart contract deployed to:
   - Polygon (Chain ID: 137): []()
@@ -56,7 +56,7 @@ This function enables the contract owner to burn a specified amount of tokens fr
 
 ## Flow
 
-1. **Deployment**: Deploy the `RewardToken` smart contract, specifying the desired token name and symbol.
+1. **Deployment**: Deploy the `ACT Coin` smart contract, specifying the desired token name and symbol.
 
 2. **Token Transfer**: Utilize the `transfer`, `transferFrom`, `approve`, and `allowance` functions for token transfer and allowance management.
 
