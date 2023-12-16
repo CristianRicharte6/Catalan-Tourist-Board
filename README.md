@@ -4,7 +4,7 @@
 
 The `ACT Coin` was created to revolutionize the tourism industry by providing a seamless and efficient way to incentivize and reward participants. Through the use of blockchain technology, the `Catalan tourism agency` aims to enhance the overall experience and engagement of its users by offering innovative financial incentives.
 
-----
+---
 
 ## Overview
 
@@ -12,14 +12,13 @@ The `ACT Coin` smart contract is an ERC20 token designed to facilitate rewards b
 
 - Smart contract deployed to:
   - Polygon (Chain ID: 137): []()
-  - Mumbai (Chain ID: 80001): [0x8d3a80ec539F3Fc6244B223fc733be23bc77FD59](https://mumbai.polygonscan.com/address/0x8d3a80ec539F3Fc6244B223fc733be23bc77FD59#code)
+  - Mumbai (Chain ID: 80001): [0xBcc6dDc39cc099CDf4A14C33Bc3CE9E1459bF61d](https://mumbai.polygonscan.com/address/0xBcc6dDc39cc099CDf4A14C33Bc3CE9E1459bF61d#code)
 
-----
+---
 
 ## Usage
 
-> [!IMPORTANT]
-> `Before running any script`, follow the .env.example requirements & fill up your wallet with some MATIC for deploying and interacting with the smart contract. When using Mumbai You can get some MATICs from the [Mumbai Faucet](https://faucet.polygon.technology)
+> [!IMPORTANT] > `Before running any script`, follow the .env.example requirements & fill up your wallet with some MATIC for deploying and interacting with the smart contract. When using Mumbai You can get some MATICs from the [Mumbai Faucet](https://faucet.polygon.technology)
 
 Install dependencies:
 
@@ -79,7 +78,7 @@ Allows a designated address (`_spender`) to spend a specified amount of tokens o
 
 Returns the remaining number of tokens that a designated address (`_spender`) can spend on behalf of the token owner (`_owner`).
 
-----
+---
 
 ## Additional Functionalities
 
