@@ -12,7 +12,7 @@ The `ACT Coin` smart contract is an ERC20 token designed to facilitate rewards b
 
 - Smart contract deployed to:
   - Polygon (Chain ID: 137): []()
-  - Mumbai (Chain ID: 80001): [0xBcc6dDc39cc099CDf4A14C33Bc3CE9E1459bF61d](https://mumbai.polygonscan.com/address/0xBcc6dDc39cc099CDf4A14C33Bc3CE9E1459bF61d#code)
+  - Mumbai (Chain ID: 80001): []()
 
 ---
 

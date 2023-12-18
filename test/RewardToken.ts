@@ -14,6 +14,7 @@ describe("RewardToken", function () {
     const rewardToken = await ethers.deployContract("RewardToken", [
       "RewardToken",
       "RT",
+      Owner.getAddress(),
     ]);
     rewardToken.waitForDeployment();
     const INITIAL_BALANCE = await rewardToken.totalSupply();

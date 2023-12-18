@@ -19,11 +19,13 @@ contract RewardToken is ERC20, Ownable {
      * @dev Initializes the token with a name and symbol.
      * @param _name The name of the token.
      * @param _symbol The symbol of the token.
+     * @param _owner The owner of the token.
      */
     constructor(
         string memory _name,
-        string memory _symbol
-    ) ERC20(_name, _symbol) Ownable(msg.sender) {}
+        string memory _symbol,
+        address _owner
+    ) ERC20(_name, _symbol) Ownable(_owner) {}
 
     /**
      * @dev Mints a specific amount of tokens to an address.
