@@ -1,8 +1,9 @@
 # ACT Coin (Agencia-Catalana-Turismo)
+![image](https://github.com/CristianRicharte6/Catalan-Tourism-Board/assets/102038261/322d391f-8100-4961-9033-8257b2ac53ad)
 
 ## Motivation
 
-The `ACT Coin` was created to revolutionize the tourism industry by providing a seamless and efficient way to incentivize and reward participants. Through the use of blockchain technology, the `Catalan tourism agency` aims to enhance the overall experience and engagement of its users by offering innovative financial incentives.
+The `ACT Coin` was created to revolutionize the tourism industry by providing a seamless and efficient way to incentivize and reward participants. Through the use of blockchain technology, the `Catalan agency board` aims to enhance the overall experience and engagement of its users by offering innovative financial incentives.
 
 ---
 
