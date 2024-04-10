@@ -3,7 +3,7 @@
 
 ## Motivation
 
-The `ACT Coin` was created to revolutionize the tourism industry by providing a seamless and efficient way to incentivize and reward participants. Through the use of blockchain technology, the `Catalan agency board` aims to enhance the overall experience and engagement of its users by offering innovative financial incentives.
+The `ACT Coin` was created to revolutionize the tourism industry by providing a seamless and efficient way to incentivize and reward participants. Through the use of blockchain technology, the [Catalan Tourist Board](https://act.gencat.cat/?lang=en) aims to enhance the overall experience and engagement of its users by offering innovative financial incentives.
 
 ---
 
